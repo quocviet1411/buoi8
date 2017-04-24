@@ -21,7 +21,7 @@
 			echo ("Vui long nhap so");
 		}
 		else
-			if($a==0)
+			if($a<=0)
 			{
 				echo("Vui long nhap so lon hon 0");
 			}
